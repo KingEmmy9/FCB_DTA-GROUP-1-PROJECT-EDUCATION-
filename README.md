@@ -20,6 +20,8 @@ The diagram reveals the level of educational attainment as against gender. It wa
 ### Tools Used:
 - Microsoft PowerBI [Download Here](www.microsoft.com)
 - Microsoft Power Point [Download Here](www.microsoft.com)
+#### Data Source
+[Data.ca](https://data.ca.gov/dataset/ca-educational-attainment-personal-income/resource/)
 ### Group Images
 ![WhatsApp Image 2024-05-31 at 14 32 31_ccbfed78](https://github.com/KingEmmy9/FCB_DTA-GROUP-1-PROJECT-EDUCATION-/assets/170768993/08a32e62-bd9d-4b2e-865c-dc3784cf28c2)
 
